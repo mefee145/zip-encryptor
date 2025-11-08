@@ -18,5 +18,7 @@ This Python script creates a password-protected ZIP file containing image files 
 - zipfile (standard library)
 # 🚀 Example Usage
 Enter The Folder Path: C:\Users\Efe\Pictures
+
 Enter The Zip Name: images
+
 Enter Password: mysecurepass
