@@ -13,7 +13,7 @@ def zip_encrypt(folder_path, zip_name, password):
             zipf.write(path, arcname=file)
             print(f"Added: {file}")
         
-        print(f"\n✅ ZIP dosyası oluşturuldu: {zip_name}")
+        print(f"\n✅ ZIP file created: {zip_name}")
 
 #Example
 folder = input(r"Enter the folder path: ")
@@ -21,3 +21,4 @@ zip_name = input("Enter the name of the ZIP file: ")
 password = input("Enter password: ")
 
 zip_encrypt(folder_path=folder, zip_name=zip_name + ".zip", password=password)
+
