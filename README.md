@@ -17,7 +17,7 @@ This Python script creates a password-protected ZIP file containing image files 
 - pyzipper
 - zipfile (standard library)
 # 🚀 Example Usage
-Enter The Folder Path: C:\Users\Efe\Pictures
+Enter The Folder Path: C:\Users\name\Pictures
 
 Enter The Zip Name: images
 
